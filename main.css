@@ -1,0 +1,40 @@
+body {
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  display: block;
+  background-color: lightblue;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+}
+
+.card {
+  flex-basis: 30%;
+  text-align: center;
+  border: lightblue solid 1px;
+}
+
+.card img {
+  width: 200px;
+  padding: 14px 16px;
+}
+
+.card p {
+  display: block;
+  background-color: lightblue;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.card header {
+  border: lightblue solid 1px;
+}
