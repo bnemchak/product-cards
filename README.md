@@ -5,8 +5,8 @@ Product Cards is an example project for creating cards using HTML and using flex
 * Show all products both available and unavailable 
 * Includes all product info in a readable and visually appealing format
 
-## Screenshots
-![Main View](./images/product-cards.png)
+<!-- ## Screenshots
+![Main View](./images/product-cards.png) -->
 
 ## How To Run
 1. Clone down this repo
